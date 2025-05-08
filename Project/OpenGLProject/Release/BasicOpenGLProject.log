@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(108,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(110,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(199,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(207,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(215,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(255,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(255,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(273,42): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(273,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(291,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(291,35): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(311,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(311,38): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  shader.cpp
+  shaderprogram.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 774 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BasicOpenGLProject.vcxproj -> D:\cseFolder\cse170\Project\PA1_support_code\Release\OpenGLProject.exe

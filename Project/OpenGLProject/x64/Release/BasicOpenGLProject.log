@@ -1,0 +1,92 @@
+﻿  main.cpp
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(100,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(100,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(111,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(111,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(119,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(119,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(121,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(121,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(122,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(122,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(123,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(123,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(124,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(124,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(125,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(125,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(126,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(126,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(126,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(126,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(127,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(127,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(127,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(128,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(128,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(129,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(129,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(129,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(130,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(130,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(130,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(131,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(131,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(132,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(132,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(133,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(133,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(133,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(134,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(134,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(135,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(136,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(136,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(137,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(137,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(137,12): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(209,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(209,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(210,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(210,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(211,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(211,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(212,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(212,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(213,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(213,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(214,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(214,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(215,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(215,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(216,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(216,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(217,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(217,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(268,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(268,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(287,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(287,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(306,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(306,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(325,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(325,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(350,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(350,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(377,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(377,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(406,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(406,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(412,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(412,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(413,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(413,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(439,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(439,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(464,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(464,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(489,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\cseFolder\cse170\Project\PA1_support_code\BasicOpenGLProject\main.cpp(489,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+main.obj : error LNK2001: unresolved external symbol "class Image * __cdecl loadBMP(char const *)" (?loadBMP@@YAPEAVImage@@PEBD@Z)
+main.obj : error LNK2001: unresolved external symbol "public: __cdecl Image::~Image(void)" (??1Image@@QEAA@XZ)
+D:\cseFolder\cse170\Project\PA1_support_code\x64\Release\OpenGLProject.exe : fatal error LNK1120: 2 unresolved externals
